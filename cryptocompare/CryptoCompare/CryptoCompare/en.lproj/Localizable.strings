@@ -1,0 +1,35 @@
+"step" = "Step";
+"buy_cryptocurrencies_title" = "How to buy cryptocurrencies?";
+"buy_cryptocurrencies_intro" = "Buying cryptocurrencies can seem overwhelming at first, but with a few simple steps, you can get started in no time. Below we explain how it works.";
+
+"step_1_title" = "Choose a Crypto Exchange";
+"step_1_description" = "To buy cryptocurrencies, you need to use an exchange that acts as a marketplace. Popular choices are Binance, Coinbase, or Kraken. Choose a platform that suits your needs and create an account.";
+
+"step_2_title" = "Create and Verify Your Account";
+"step_2_description" = "Once you have chosen an exchange, you need to create an account. Typically, an email address, password, and sometimes ID verification are required to ensure that it is you making the purchases.";
+
+"step_3_title" = "Deposit Funds";
+"step_3_description" = "To buy cryptocurrencies, you need to deposit funds into your exchange account. Many exchanges accept deposits via bank transfer, credit card, or other payment methods.";
+
+"step_4_title" = "Choose the Cryptocurrency You Want to Buy";
+"step_4_description" = "Once your funds are deposited, you can choose the cryptocurrency you want to buy, such as Bitcoin (BTC) or Ethereum (ETH). You can also see real-time prices and decide how much you want to invest.";
+
+"step_5_title" = "Confirm Your Purchase";
+"step_5_description" = "After selecting the cryptocurrency, enter the amount you wish to buy and confirm the purchase. Once the purchase is complete, you own the cryptocurrency, and it will be displayed in your exchange account.";
+
+"step_6_title" = "Store Your Cryptocurrencies";
+"step_6_description" = "You can either keep the cryptocurrencies on the exchange or move them to a private wallet (digital wallet) for extra security. It is recommended to use an external wallet for larger amounts.";
+
+"tips_and_advice_title" = "Tips and Advice";
+"tips_and_advice_body" = "1. Start with small amounts until you feel comfortable with the process.\n2. Never store large amounts of cryptocurrencies on an exchange for a long time.\n3. Do research on the cryptocurrency you want to invest in.\n4. Remember that the cryptocurrency market is volatile, and prices can change quickly.";
+
+"navigation_title" = "Buying Cryptocurrencies";
+"crypto_currencies" = "Cryptocurrencies";
+"price_label" = "Price:";
+"compare_button" = "COMPARE";
+"loading" = "Loading...";
+"crypto_details" = "Crypto Details";
+"current_price_label" = "Current price:";
+"highest_24h_label" = "Highest 24 hour:";
+"lowest_24h_label" = "Lowest 24 hour:";
+"compare_crypto_price_changes" = "Compare Cryptocurrency Price Changes";

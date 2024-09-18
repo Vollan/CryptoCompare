@@ -1,0 +1,35 @@
+"step" = "Steg";
+"buy_cryptocurrencies_title" = "Hur köper man kryptovalutor?";
+"buy_cryptocurrencies_intro" = "Att köpa kryptovalutor kan kännas överväldigande i början, men med några enkla steg kan du komma igång på nolltid. Nedan förklarar vi hur det går till.";
+
+"step_1_title" = "Välj en Kryptobörs";
+"step_1_description" = "För att köpa kryptovalutor behöver du använda en börs som fungerar som en marknadsplats. Populära val är Binance, Coinbase eller Kraken. Välj en plattform som passar dina behov och skapar ett konto.";
+
+"step_2_title" = "Skapa och Verifiera ditt Konto";
+"step_2_description" = "När du valt en börs behöver du skapa ett konto. Oftast krävs en e-postadress, lösenord och ibland ID-verifiering för att säkerställa att det är du som gör köpen.";
+
+"step_3_title" = "Sätt in Pengar";
+"step_3_description" = "För att köpa kryptovalutor behöver du sätta in pengar på ditt börskonto. Många börser accepterar insättningar med banköverföringar, kreditkort eller andra betalmetoder.";
+
+"step_4_title" = "Välj den Kryptovaluta du vill köpa";
+"step_4_description" = "När dina pengar är insatta kan du välja den kryptovaluta du vill köpa, exempelvis Bitcoin (BTC) eller Ethereum (ETH). Du kan också se realtidspriser och välja hur mycket du vill investera.";
+
+"step_5_title" = "Bekräfta Köpet";
+"step_5_description" = "Efter att ha valt kryptovalutan anger du hur mycket du vill köpa och bekräftar köpet. När köpet är klart äger du kryptovalutan och den visas på ditt börskonto.";
+
+"step_6_title" = "Förvara dina Kryptovalutor";
+"step_6_description" = "Du kan antingen låta kryptovalutorna vara kvar på börsen, eller flytta dem till en privat plånbok (digital wallet) för extra säkerhet. Det är rekommenderat att använda en extern plånbok för större summor.";
+
+"tips_and_advice_title" = "Tips och råd";
+"tips_and_advice_body" = "1. Börja med små summor tills du känner dig bekväm med processen.\n2. Förvara aldrig stora summor kryptovalutor på en börs under längre tid.\n3. Gör research om den kryptovaluta du vill investera i.\n4. Kom ihåg att kryptovalutamarknaden är volatil, och värdet kan ändras snabbt.";
+
+"navigation_title" = "Köpa Kryptovalutor";
+"crypto_currencies" = "Kryptovalutor";
+"price_label" = "Pris:";
+"compare_button" = "JÄMFÖR";
+"loading" = "Laddar data...";
+"crypto_details" = "Krypto Detaljer";
+"current_price_label" = "Nuvarande pris:";
+"highest_24h_label" = "Högsta 24 timmar:";
+"lowest_24h_label" = "Lägsta 24 timmar:";
+"compare_crypto_price_changes" = "Jämför Kryptovalutornas Prisändringar";
